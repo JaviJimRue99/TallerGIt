@@ -12,6 +12,5 @@
 <p>Esto es el cambio 3</p>
 <p>Esto es el cambio 4</p>
 <p>Esto es el cambio 1 de la nuevaRama</p>
-<p>Esto es el cambio 2 de la nuevaRama</p>
 </body>
 </html>
