@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>TÍTULO DE LA PÁGINA</title>
+<title>TÍTULO DE LA PAGINA</title>
 </head>
 <body>
 
